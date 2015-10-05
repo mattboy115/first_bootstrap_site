@@ -1,0 +1,18 @@
+.jumbotron {
+	background-image: url(http://cdn.wonderfulengineering.com/wp-content/uploads/2014/04/space-wallpapers-9.jpg);
+	background-size: cover;
+	background-position: center top;
+	color: white;
+}
+
+body {
+	padding-top: 40px;
+}
+
+.footer {
+	text-align: center;
+	padding: 20px;
+	height: 60px;
+	background-color: #222; 
+	color: #9f9f9f;
+}
